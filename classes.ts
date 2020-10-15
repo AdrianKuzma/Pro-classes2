@@ -2,6 +2,7 @@ import { Student } from "./Student"
 import { Person } from "./Person"
 import { Triangle } from "./Triangle"
 import { Worker } from "./Worker"
+
 let student1 = new Student("John",1245,2,123456,"Legionarska 1, 01001 Zilina")
 let student2 = new Student("Sam",1,5,456789,"Legionarska 2, 01001 Zilina")
 let person1 = new Person("Jhon", 21 ,23000);
